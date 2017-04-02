@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dosen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="pendidikan.xsd">
+	<datadiri>
+		<nik>1147001</nik>
+		<nama>Adhika Dwi Cahya</nama>
+		<jk>Laki-Laki</jk>
+		<tmptlahir>Cianjur</tmptlahir>
+		<tgllahir>21 Februari 1960</tgllahir>
+		<agama>Islam</agama>
+		<pendidikan>Sarjana</pendidikan>
+		<alamat>Cianjur barat</alamat>
+		<matakuliah>Desaign Web</matakuliah>
+		<email>adhikadwi@gmail.com</email>
+	</datadiri>
+	
+<datadiri>
+		<nik>1147003</nik>
+		<nama>Akbar Pambudi Utomo</nama>
+		<jk>Laki-Laki</jk>
+		<tmptlahir>Makasar</tmptlahir>
+		<tgllahir>1 Januari 1970</tgllahir>
+		<agama>Islam</agama>
+		<pendidikan>Sarjana</pendidikan>
+		<alamat>Sinjai, Makasar</alamat>
+		<matakuliah>SAP</matakuliah>
+		<email>pambudiutomo@gmail.com</email>
+</datadiri>
+		
+<datadiri>
+		<nik>1147004</nik>
+		<nama>Arya Niken Manalu</nama>
+		<jk>Perempuan</jk>
+		<tmptlahir>Bekasi</tmptlahir>
+		<tgllahir>20 November 1970</tgllahir>
+		<agama>Kristen</agama>
+		<pendidikan>Sarjana</pendidikan>
+		<alamat>Bekasi Timur</alamat>
+		<matakuliah>Akuntansi</matakuliah>
+		<email>aryaniken@gmail.com</email>
+</datadiri>
+
+<datadiri>
+		<nik>1147005</nik>
+		<nama>Andi Nurfadila Ali</nama>
+		<jk>Perempuan</jk>
+		<tmptlahir>Makasar</tmptlahir>
+		<tgllahir>25 oktober 1970</tgllahir>
+		<agama>Islam</agama>
+		<pendidikan>Sarjana</pendidikan>
+		<alamat>Makasar, Sulawesi Selatan</alamat>
+		<matakuliah>Rekayasa Perangkat Lunak</matakuliah>
+		<email>dilaandi@gmail.com</email>
+</datadiri>
+
+<datadiri>
+		<nik>1147002</nik>
+		<nama>M.Adam N.H</nama>
+		<jk>Laki-Laki</jk>
+		<tmptlahir>Salatiga</tmptlahir>
+		<tgllahir>15 Desember 1965</tgllahir>
+		<agama>Islam</agama>
+		<pendidikan>Sarjana</pendidikan>
+		<alamat>Salatiga, Jawa Tengah</alamat>
+		<matakuliah>Database</matakuliah>
+		<email>adamnh@gmail.com</email>
+	</datadiri>
+</dosen>
